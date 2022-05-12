@@ -1,0 +1,20 @@
+{
+  "name": "learn-javascript-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "events": "^3.3.0",
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-directions": "^4.1.0",
+    "mapbox-gl": "^2.8.2"
+  }
+}
